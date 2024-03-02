@@ -33,15 +33,15 @@ h1 {
 }
 
 #color-display {
-  color: rgb(150, 10, 10);
+  color: rgb(16, 16, 59);
   display: block;
   font-size: 2rem;
-  background-color: rgb(243, 243, 191);
+  background-color: beige;
 
 }
 
 #stripe {
-  background-color: rgb(21, 57, 59);
+  background-color: white;
   height: 30px;
   text-align: center;
   color: black;
@@ -50,7 +50,7 @@ h1 {
 
 #message {
   text-transform: uppercase;
-  color: #f1f6f7;
+  color: #2c8e99;
   font-size: 0.5em;
   display: inline-block;
 
